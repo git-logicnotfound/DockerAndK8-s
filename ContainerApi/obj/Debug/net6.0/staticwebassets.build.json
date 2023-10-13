@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E2rrKC2Ww1ez06oRST7aWKrcGcSUBXEpyPbbcbvlqF4=",
+  "Source": "ContainerApi",
+  "BasePath": "_content/ContainerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
